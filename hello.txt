@@ -3,3 +3,7 @@ Could not type it as a file name.
 Odin project, change file names.
 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
 This the 7 Day Personal Access token for HTTPS remote URLS
+Type this for password in HTTPS remote URLS
+When I did the set up for SSH key by Odin steps
+the key was saved for all current hosts, ajay-2019011
+And when I pushed No credentials were asked
