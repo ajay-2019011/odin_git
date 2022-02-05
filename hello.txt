@@ -7,3 +7,5 @@ Type this for password in HTTPS remote URLS
 When I did the set up for SSH key by Odin steps
 the key was saved for all current hosts, ajay-2019011
 And when I pushed No credentials were asked
+We can switch between HTTPS and SSH remote URLS
+even after we have cloned with the other 
